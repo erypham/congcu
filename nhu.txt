@@ -1,3 +1,8 @@
 change
+<<<<<<< HEAD
 thay doi 
 thay doi nd moi
+=======
+thay doi
+thay doi nd may khac
+>>>>>>> 13084d3c324a9da79388122fd749ecdc1effce34
